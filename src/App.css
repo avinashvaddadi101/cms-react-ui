@@ -1,0 +1,78 @@
+.app-header-order {
+  color: blue;
+  background: yellow;
+  text-align: center;
+  margin-top: -8px;
+}
+
+.app-footer-cms {
+  color: blue;
+  background: grey;
+  text-align: center;
+  margin-bottom: -8px;
+}
+
+.information {
+  margin-left: 575px;
+  white-space: nowrap;
+}
+
+.title {
+  display: table-caption;
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.table {
+  display: table;
+  text-align: center;
+}
+
+#rowCustomer {
+  margin-left: 400px;
+  margin-bottom: 25px;
+}
+
+.Heading {
+  display: table-row;
+  font-weight: bold;
+  text-align: center;
+}
+
+.Cell {
+  display: table-cell;
+  border: solid;
+  border-width: thin;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ID {
+  width: 100px;
+}
+#cname {
+  width: 100px;
+}
+#dob {
+  width: 100px;
+}
+#caddress {
+  width: 100px;
+}
+
+.Row {
+  display: table-row;
+}
+
+#submit {
+  margin-bottom: 25px;
+}
+
+#root {
+  text-align: center;
+}
+
+#submit2 {
+  margin-top: 25px;
+}

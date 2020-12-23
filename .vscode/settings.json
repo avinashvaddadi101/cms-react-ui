@@ -1,0 +1,18 @@
+{
+
+    
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+      
+    // Set the default
+    "editor.formatOnSave": true,
+    // Enable per-language
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "json.schemas": [
+    
+    ],
+    "liveServer.settings.port": 5501
+    
+}
